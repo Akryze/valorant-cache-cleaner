@@ -7,7 +7,6 @@ taskkill /F /T /IM "Riot Client.exe" 2>nul
 taskkill /F /T /IM "RiotClientUx.exe" 2>nul
 taskkill /F /T /IM "VALORANT-Win64-Shipping.exe" 2>nul
 taskkill /F /T /IM "VALORANT.exe" 2>nul
-taskkill /F /T /IM "vgtray.exe" 2>nul
 
 timeout /t 1 /nobreak > nul
 
